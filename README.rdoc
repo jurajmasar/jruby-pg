@@ -100,3 +100,5 @@ to this library over the years.
 We are thankful to the people at the ruby-list and ruby-dev mailing lists.
 And to the people who developed PostgreSQL.
 
+
+
